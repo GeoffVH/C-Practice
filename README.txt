@@ -1,1 +1,1 @@
-Keeping snippets of python code I've done and practiced with. 
+Practice and notes taken on the C# language
